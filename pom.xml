@@ -50,7 +50,7 @@
             <properties>
                 <apigee.profile>dev</apigee.profile>
                 <apigee.env>eval</apigee.env>
-                <apigee.hosturl>https://apigee.googleapis.com</apigee.hosturl>
+                <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
                 <apigee.org>neat-domain-345007</apigee.org>
                 <apigee.username>csekhar0306@gmail.com</apigee.username>
