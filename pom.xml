@@ -49,10 +49,10 @@
             <id>dev</id>
             <properties>
                 <apigee.profile>dev</apigee.profile>
-                <apigee.env>${env}</apigee.env>
+                <apigee.env>eval</apigee.env>
                 <apigee.hosturl>https://apigee.googleapis.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>eval</apigee.org>
+                <apigee.org>neat-domain-345007</apigee.org>
                 <apigee.username>learningaws2k23@gmail.com</apigee.username>
                 <apigee.password>N0hith@123</apigee.password>
                 <apigee.options>override</apigee.options>
