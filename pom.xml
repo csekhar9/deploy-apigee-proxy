@@ -52,9 +52,10 @@
                 <apigee.env>${env}</apigee.env>
                 <apigee.hosturl>https://apigee.googleapis.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>${org}</apigee.org>
-                <apigee.options>override</apigee.options> 
-                <apigee.bearer>${bearer}</apigee.bearer>
+                <apigee.org>eval</apigee.org>
+                <apigee.username>learningaws2k23@gmail.com</apigee.username>
+                <apigee.password>N0hith@123</apigee.password>
+                <apigee.options>override</apigee.options>
             </properties>
         </profile>
     </profiles>
