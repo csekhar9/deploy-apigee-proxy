@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-export PROJECT="neat-domain-345007"
+export PROJECT="apigee-accel1"
 export APIGEE_HOST="apigeedemo"
 export APIGEE_ENV="eval"
 PROJECT_NUMBER="$(gcloud projects describe $PROJECT --format="value(projectNumber)")"
