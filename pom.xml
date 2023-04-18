@@ -131,6 +131,9 @@
                     <execution>
                         <id>deploy-bundle-step</id>
                         <phase>install</phase>
+                        <goals>
+                            <goal>deploy</goal>
+                        </goals>
                     </execution>
                 </executions>
             </plugin>
