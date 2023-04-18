@@ -115,28 +115,6 @@
                     </execution>
                 </executions>
             </plugin>
-            <plugin>
-                <groupId>io.apigee.build-tools.enterprise4g</groupId>
-                <artifactId>apigee-edge-maven-plugin</artifactId>
-                <version>${apigee.deploy.version}</version>
-                <executions>
-                    <execution>
-                        <id>configure-bundle-step</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>configure</goal>
-                        </goals>
-                    </execution>
-                    <!--deploy bundle -->
-                    <execution>
-                        <id>deploy-bundle-step</id>
-                        <phase>install</phase>
-                        <goals>
-                            <goal>deploy</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
         </plugins>
     </build>
 
