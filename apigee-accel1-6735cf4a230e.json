@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apigee-accel1",
+  "private_key_id": "6735cf4a230e96baab6df86a4e4d83b639fa580b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8ixh1eIJq2FY0\ncnk9FxNGGyJsWnFGVWY8Sc7l98+UK258iugMFKm1boEcR1FZzlDPKTU2miCCcdxk\nlAb3+sjsh71zuI9EdAWx8Tlgx9H6H8xbYahevIyPiz8L/qqv+C+f2TuIuoajqUWQ\nbp6ZZnsK0QUq89dgGfGM9EogWAJbr1qDSvssCveiNz1nTUoUs1JY3ezHnaPI0LvT\ny/WMloHK+JIkTGNS/EnO4fgJRSby+SiHQvMYzAeLgVD33aGUQpJ2Hx4UAkYLljFJ\nTkMaiKBC7K9MsdsUs82drJiZhMXOvfKNQaQsCgjdNf7NJHm5J+XgXz1NeLH2q3wP\n7e7KX9zRAgMBAAECggEAERX90m9oSixuq3QQPpP/wCOnW/BaQYhtqlr57+ckHYZO\nDeU8oBOjSXjJJHnmCmBi/FL8qoUPGyMcWNT9SK2mVaD7bygze32UIor8qyOQiL0m\n9MUF0AgAKOXygbDDYQz5q9+wwHQ+zUgCsNMFdltOHS3R7RGJ3ACd3ispKIMxO4Oh\nqQG51wr0PHfDwbW5pAxpEimAb8Gk3O5RMCJUjsCF2YLb3MDfukVWE6KDyUjzj9eK\nBuDVe0rvUSdmYI68B6AhrOsLPnqp3NOucK6q+VXMmBo3f3jgbdp2hteibDXgzIWf\n04jx3lsyaqmsmIafpJnuKQoCD33/G0aM6R7/G64lwQKBgQDpXEyVSY4PxMR86+aH\nAmosWxbMiClMNkT9HTOKJk8Hq2NgjKc4VCUf5frcbjq0co/s2+2hCeaWxNpYU4V9\naXWnsCSJ3OL/DJEVYMv/ujqMZyeqtyyk5vAGjnC9STgVOMhUpA1aestSRtKnNF4v\n2DvgANUOlp5cuOOTiOlH5/s8eQKBgQDO1blvzw51fVMEWg+AqBKzpwauDUbiACdk\nQn3WS88wPXeQhqxYggyOQlzwQC/ecfdxGfJLBtFTzkA6uT7QOfdn0YsEOO/C0L61\nC1U7vxo5tXUeX8umOFSB5/VTXhSGES2YV/Nav7mziHYU56WmoXJkJRqUYI3s32Vc\ny6UqJxddGQKBgQDYErhuen7ppt3wdVUsqVW54FXJ6EGk6ZMTcthoEHSYu1725QVo\nqLD/SijvtbjxoCoXvMPYmpxB+d/abOtrZhykufn7FOWyFua3jrsU/FB99H3MGnNh\n9NtGltlYytT9AWisxoH+xzg/5Ifkfh6/2k4GaX7dVSUo4aEG2Hx4Mhp0sQKBgQCe\n02WLIw9yTuMxw0qGPAnoZIjvnIhiwUV+asSgiyQ1Ye3vUEsFyA+GKhWd81wOz6r3\n8bmpvTl+xjFyJo/Ca9C8qx66BlKuYYcgFOzFbVDhIaMmyN7j6/uQqaMr+mF+NbCy\nfE8Fz5X09APgt6TvWKgzmH5Zk+9IBp+aa1KQFOaO+QKBgB4UnKttV5u79wIS5OZD\nZ5IFmi/FfiVUDGg+br/NwThgbmsYNbYjTKU0qV8QDgbwfa0xs4mhDsA9WHpMSs3q\nzw8oMeJb7QzCMEmERsTA8a2mu1T3+nWAC/CNWaLffTHsH7emJlVEA7aoJHGCmOpD\ntHDMz7+o6J6bD4LsWI2DRu28\n-----END PRIVATE KEY-----\n",
+  "client_email": "apigee-accel-demo@apigee-accel1.iam.gserviceaccount.com",
+  "client_id": "100824279955034875993",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apigee-accel-demo%40apigee-accel1.iam.gserviceaccount.com"
+}
